@@ -1,5 +1,5 @@
 # Plop Theme
-Tema com controles controles verde e borda e botões de janelas baseado no Pop Light na cor cinza.
+Tema com controles verde e borda e botões de janelas baseado no Pop Light na cor cinza.
 # Como instalar
 Ao baixar o arquivo .zip, extrair a pasta plop-theme-master para sua /home. Dentro dessa pasta tem o arquivo Plop.zip, extrair a pasta Plop para /home/.themes. Se não houver a pasta .themes, é preciso criar uma.
 # Mudando o tema
